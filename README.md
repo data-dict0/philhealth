@@ -1,1 +1,2 @@
-A look into the controversy surrounding the PhilHealth budget.
+# ph-heat
+A story on Philippines' increasing weather temperatures
